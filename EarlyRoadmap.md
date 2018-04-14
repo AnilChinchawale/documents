@@ -20,7 +20,7 @@
 	* [ ] Medium
 * [ ] Lastpass (Share passwords between devs)
 
-## Setup Official Atheos Hosts (VM's & Containers):
+## Setup Official Atheios Hosts (VM's & Containers):
 * [ ] Bootnodes
     * [ ] Official US Node
     * [ ] Official EU Node
@@ -44,7 +44,7 @@
 * [ ] desktop wallet - compiled and working: Linux, Mac, Windows
 * [ ] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
-* [ ] pool - get official pool running at pool.atheios.
+* [ ] pool - get official pool running at pool.atheios.com
 
 ## Misc:
 * [ ] Create Atheios Logo & Banner
@@ -53,3 +53,4 @@
     * [ ] Determine Block Reward reduction rate 
     * [ ] Determine Block Time
 * [ ] Decide on Premine or Dev Block Reward (yes/no?)
+
