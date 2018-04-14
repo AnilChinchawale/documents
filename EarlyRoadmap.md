@@ -44,4 +44,12 @@
 * [ ] desktop wallet - compiled and working: Linux, Mac, Windows
 * [ ] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
-* [ ] pool - get official pool running at pool.atheios.com
+* [ ] pool - get official pool running at pool.atheios.
+
+## Misc:
+* [ ] Create Atheios Logo & Banner
+* [ ] Determine Coin Generation: 
+    * [ ] Determine base Block Reward 
+    * [ ] Determine Block Reward reduction rate 
+    * [ ] Determine Block Time
+* [ ] Decide on Premine or Dev Block Reward (yes/no?)
