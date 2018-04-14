@@ -20,7 +20,7 @@
 	* [ ] Medium
 * [ ] Lastpass (Share passwords between devs)
 
-## Setup Official Atheos Hosts (VM's & Containers):
+## Setup Official Atheios Hosts (VM's & Containers):
 * [ ] Bootnodes
     * [ ] Official US Node
     * [ ] Official EU Node
