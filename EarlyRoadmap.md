@@ -53,4 +53,5 @@
     * [ ] Determine Block Reward reduction rate 
     * [ ] Determine Block Time
 * [ ] Decide on Premine or Dev Block Reward (yes/no?)
+* [ ] Decide on Ticker... ATH?
 
