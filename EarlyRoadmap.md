@@ -1,4 +1,4 @@
-## Setup Infrastructure Services:
+# Setup Infrastructure Services:
 * [x] Register domain atheios.com
 * [ ] Setup Google Apps (email and docs)
 * [x] Setup Github
@@ -20,7 +20,7 @@
 	* [ ] Medium
 * [ ] Lastpass (Share passwords between devs)
 
-## Setup Official Atheios Hosts (VM's & Containers):
+# Setup Official Atheios Hosts (VM's & Containers):
 * [ ] Bootnodes
     * [ ] Official US Node
     * [ ] Official EU Node
@@ -31,13 +31,13 @@
 * [ ] Official Pool 
 * [ ] Network Stats 
 
-## Setup Supporting Hosts (VM's & Containers):
+# Setup Supporting Hosts (VM's & Containers):
 * [ ] Prometheus (Monitoring and Alerting)
 * [ ] Graphite (Time Series Metrics Database)
 * [ ] Grafana (Realtime Graphs and Alerting)
 * [x] Alfred (Discord Bot)
 
-## Code Roadmap:
+# Code Roadmap:
 * [x] Get Alfred the Discord Bot working
 * [ ] go-atheios - compiled and working: Linux, Mac, Windows
 * [ ] web wallet - working and setup at webwallet.atheios.com
@@ -46,12 +46,13 @@
 * [ ] website - create website and setup at atheios.com
 * [ ] pool - get official pool running at pool.atheios.com
 
-## Misc:
+# Misc:
 * [ ] Create Atheios Logo & Banner
 * [ ] Determine Coin Generation: 
     * [ ] Determine base Block Reward 
     * [ ] Determine Block Reward reduction rate 
     * [ ] Determine Block Time
 * [ ] Decide on Premine or Dev Block Reward (yes/no?)
+* [ ] Figure out Block Reward Breakdown and Block Time
 * [ ] Decide on Ticker... ATH?
 
