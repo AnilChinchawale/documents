@@ -25,10 +25,10 @@
     * [ ] Official US Node
     * [ ] Official EU Node
     * [ ] Official Asia Node
-* [ ] Explorer
+* [x] Explorer
 * [ ] Website
 * [ ] Web Wallet
-* [ ] Official Pool 
+* [x] Official Pool 
 * [ ] Network Stats 
 
 # Setup Supporting Hosts (VM's & Containers):
@@ -39,20 +39,21 @@
 
 # Code Roadmap:
 * [x] Get Alfred the Discord Bot working
-* [ ] go-atheios - compiled and working: Linux, Mac, Windows
+* [x] go-atheios - compiled and working: Linux, Mac
 * [ ] web wallet - working and setup at webwallet.atheios.com
 * [ ] desktop wallet - compiled and working: Linux, Mac, Windows
 * [ ] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
-* [ ] pool - get official pool running at pool.atheios.com
+* [x] pool - get official pool running at pool.atheios.com
+* [x] explorer - up and running
 
 # Misc:
 * [ ] Create Atheios Logo & Banner
-* [ ] Determine Coin Generation: 
-    * [ ] Determine base Block Reward 
-    * [ ] Determine Block Reward reduction rate 
-    * [ ] Determine Block Time
-* [ ] Decide on Premine or Dev Block Reward (yes/no?)
-* [ ] Figure out Block Reward Breakdown and Block Time
+* [x] Determine Coin Generation: 
+    * [x] Determine base Block Reward 
+    * [x] Determine Block Reward reduction rate 
+    * [x] Determine Block Time
+* [x] Decide on Premine or Dev Block Reward - Going with No Premine. We will have a small Dev Block Reward
+* [x] Figure out Block Reward Breakdown and Block Time
 * [ ] Decide on Ticker... ATH?
 
