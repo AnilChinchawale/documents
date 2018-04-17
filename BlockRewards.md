@@ -1,6 +1,6 @@
-# Eras
+# Epochs
 
-| Era |	Days | Last Block of Era | # Blocks in Era | Miner Rwd | Dev Rwd |
+| Epoch |	Days | Last Block of Era | # Blocks in Era | Miner Rwd | Dev Rwd |
 |:---:|:----:|-------------------|-----------------|:---------:|:-------:|
 | 0	  | 182	 | 716,727           | 716,727	       | 12	       | 0.1     |
 | 1	  | 182	 | 1,433,454	     | 716,727         | 10	       | 0.2     |
@@ -14,9 +14,9 @@
 | 9	  | 730	 | 14,334,540	     | 2,866,908	   | 2	       | 0.03    |
 | 10  | ∞    | ∞            	 | ∞          	   | 1	       | 0.01    |
 
-# Total Rewarded Per Era
+# Rewards Per Epoch
 
-| Era |	Days | Miner      | Dev     | Combined  |
+| Epoch |	Days | Miner      | Dev     | Combined  |
 |:---:|:----:|------------|---------|-----------|
 | 0	  | 182	 | 8,600,724  | 71,673  | 8,672,397 | 
 | 1   | 182	 | 7,167,270  | 143,345 | 7,310,615 |
@@ -30,9 +30,9 @@
 | 9   | 730	 | 5,733,816  | 86,007	| 5,819,823 |
 | 10  | ∞	 |            | 	    | ∞         |
 
-# Supply Breakdown
+# Total Supply Breakdown
 
-| Era |	Days | Miners      | Miner % | Devs      | Dev % | Total Supply |
+| Epoch |	Days | Miners      | Miner % | Devs      | Dev % | Total Supply |
 |:---:|:----:|-------------|:-------:|-----------|:-----:|--------------|
 | 0	  | 182	 | 8,600,724   | 99.17%  | 71,673    | 0.83% | 8,672,397    |
 | 1   | 182	 | 15,767,994  | 98.65%  | 215,018	  | 1.35% | 15,983,012   |
