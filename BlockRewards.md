@@ -1,6 +1,6 @@
 # Epochs
 
-| Epoch |	Days | Last Block of Era | # Blocks in Era | Miner Rwd | Dev Rwd |
+| Epoch |	Days | Last Block of Epoch | # of Blocks | Miner Rwd | Dev Rwd |
 |:---:|:----:|-------------------|-----------------|:---------:|:-------:|
 | 0	  | 182	 | 716,727           | 716,727	       | 12	       | 0.1     |
 | 1	  | 182	 | 1,433,454	     | 716,727         | 10	       | 0.2     |
