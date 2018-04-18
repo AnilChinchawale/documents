@@ -9,7 +9,7 @@
     * [x] net-stats
     * [x] website
     * [x] discordbot
-* [ ] Social Media
+* [x] Social Media
 	* [x] Discord - https://discord.gg/75MBKFF
 	* [x] Twitter - https://twitter.com/atheioschain
 	* [x] Youtube - http://youtube.atheios.com
