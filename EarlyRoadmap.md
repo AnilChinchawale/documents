@@ -1,6 +1,5 @@
 # Setup Infrastructure Services:
 * [x] Register domain atheios.com
-* [ ] Setup Google Apps (email and docs)
 * [x] Setup Github
     * [x] go-atheios
     * [x] explorer
@@ -10,11 +9,9 @@
     * [x] net-stats
     * [x] website
     * [x] discordbot
-* [ ] Setup DockerHub account
 * [ ] Social Media
 	* [x] Discord
 	* [ ] Twitter
-	* [ ] Facebook
 	* [ ] Steemit / Dtube
 	* [ ] Youtube
 	* [ ] Medium
@@ -28,7 +25,7 @@
 * [ ] Website
 * [ ] Web Wallet
 * [x] Official Pool 
-* [ ] Network Stats 
+* [x] Network Stats 
 
 # Setup Supporting Hosts (VM's & Containers):
 * [ ] Prometheus (Monitoring and Alerting)
@@ -41,7 +38,7 @@
 * [x] go-atheios - compiled and working: Linux, Mac
 * [ ] web wallet - working and setup at webwallet.atheios.com
 * [ ] desktop wallet - compiled and working: Linux, Mac, Windows
-* [ ] netstats - netstats setup at stats.atheios.com
+* [x] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
 * [x] pool - get official pool running at pool.atheios.com
 * [x] explorer - up and running
