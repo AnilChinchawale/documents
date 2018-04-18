@@ -4,8 +4,8 @@
 * [x] Setup Github
     * [x] go-atheios
     * [x] explorer
-    * [x] web wallet
-    * [x] desktop wallet
+    * [ ] web wallet
+    * [ ] desktop wallet
     * [x] open-ethereum-pool
     * [x] net-stats
     * [x] website
@@ -18,7 +18,6 @@
 	* [ ] Steemit / Dtube
 	* [ ] Youtube
 	* [ ] Medium
-* [ ] Lastpass (Share passwords between devs)
 
 # Setup Official Atheios Hosts (VM's & Containers):
 * [ ] Bootnodes
