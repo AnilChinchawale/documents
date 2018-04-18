@@ -10,11 +10,10 @@
     * [x] website
     * [x] discordbot
 * [ ] Social Media
-	* [x] Discord
-	* [ ] Twitter
-	* [ ] Steemit / Dtube
-	* [ ] Youtube
-	* [ ] Medium
+	* [x] Discord - https://discord.gg/75MBKFF
+	* [x] Twitter - https://twitter.com/atheioschain
+	* [x] Youtube - http://youtube.atheios.com
+	* [x] Medium - https://medium.com/@atheios
 
 # Setup Official Atheios Hosts (VM's & Containers):
 * [ ] Bootnodes
