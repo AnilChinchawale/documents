@@ -3,7 +3,7 @@
 * [x] Setup Github
     * [x] go-atheios
     * [x] explorer
-    * [ ] web wallet
+    * [x] web wallet
     * [ ] desktop wallet
     * [x] open-ethereum-pool
     * [x] net-stats
@@ -22,7 +22,7 @@
     * [ ] Official Asia Node
 * [x] Explorer
 * [ ] Website
-* [ ] Web Wallet
+* [x] Web Wallet
 * [x] Official Pool 
 * [x] Network Stats 
 
@@ -35,7 +35,7 @@
 # Code Roadmap:
 * [x] Get Alfred the Discord Bot working
 * [x] go-atheios - compiled and working: Linux, Mac
-* [ ] web wallet - working and setup at webwallet.atheios.com
+* [x] web wallet - working and setup at webwallet.atheios.com
 * [ ] desktop wallet - compiled and working: Linux, Mac, Windows
 * [x] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
