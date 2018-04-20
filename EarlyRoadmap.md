@@ -28,8 +28,8 @@
 
 # Setup Supporting Hosts (VM's & Containers):
 * [ ] Prometheus (Monitoring and Alerting)
-* [ ] Graphite (Time Series Metrics Database)
-* [ ] Grafana (Realtime Graphs and Alerting)
+* [x] Graphite (Time Series Metrics Database)
+* [x] Grafana (Realtime Graphs and Alerting)
 * [x] Alfred (Discord Bot)
 
 # Code Roadmap:
