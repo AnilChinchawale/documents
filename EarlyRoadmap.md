@@ -27,7 +27,7 @@
 * [x] Network Stats 
 
 # Setup Supporting Hosts (VM's & Containers):
-* [ ] Prometheus (Monitoring and Alerting)
+* [x] Prometheus (Monitoring and Alerting)
 * [x] Graphite (Time Series Metrics Database)
 * [x] Grafana (Realtime Graphs and Alerting)
 * [x] Alfred (Discord Bot)
