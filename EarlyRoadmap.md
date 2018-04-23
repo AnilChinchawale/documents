@@ -4,7 +4,7 @@
     * [x] go-atheios
     * [x] explorer
     * [x] web wallet
-    * [ ] desktop wallet
+    * [x] desktop wallet (working on testnet.)
     * [x] open-ethereum-pool
     * [x] net-stats
     * [x] website
