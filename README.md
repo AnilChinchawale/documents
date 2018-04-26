@@ -2,3 +2,4 @@
 * [Early Roadmap](EarlyRoadmap.md)
 * [Block Rewards](BlockRewards.md)
 * [Development Fund](DevFund.md)
+* [Bounties](Bounties.md)
