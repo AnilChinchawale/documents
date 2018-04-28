@@ -36,7 +36,8 @@
 * [x] Get Alfred the Discord Bot working
 * [x] go-atheios - compiled and working: Linux, Mac
 * [x] web wallet - working and setup at webwallet.atheios.com
-* [ ] desktop wallet - compiled and working: Linux, Mac, Windows
+* [ ] desktop wallet - currently works in dev on testnet
+* [ ] atheiosmask - currently works in dev on testnet
 * [x] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
 * [x] pool - get official pool running at pool.atheios.com
