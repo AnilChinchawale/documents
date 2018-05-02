@@ -7,7 +7,7 @@
     * [x] desktop wallet (working on testnet.)
     * [x] open-ethereum-pool
     * [x] net-stats
-    * [ ] website
+    * [x] website
     * [x] discordbot
 * [x] Social Media
 	* [x] Discord - https://discord.gg/75MBKFF
@@ -21,7 +21,7 @@
     * [ ] Official EU Node
     * [ ] Official Asia Node
 * [x] Explorer
-* [ ] Website
+* [x] Website
 * [x] Web Wallet
 * [x] Official Pool 
 * [x] Network Stats 
@@ -36,7 +36,7 @@
 * [x] Get Alfred the Discord Bot working
 * [x] go-atheios - compiled and working: Linux, Mac
 * [x] web wallet - working and setup at wallet.atheios.com
-* [ ] desktop wallet - currently works in dev on testnet
+* [x] desktop wallet - currently works in dev on testnet
 * [ ] atheiosmask - currently works in dev on testnet
 * [x] netstats - netstats setup at stats.atheios.com
 * [ ] website - create website and setup at atheios.com
@@ -51,5 +51,4 @@
     * [x] Determine Block Time
 * [x] Decide on Premine or Dev Block Reward - Going with No Premine. We will have a small Dev Block Reward
 * [x] Figure out Block Reward Breakdown and Block Time
-* [ ] Decide on Ticker... ATH?
 
