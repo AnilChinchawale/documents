@@ -1,14 +1,11 @@
-## DRAFT
-This document is currently a work in progress. __[Dates/Times] listed below are placeholder only right now!!__
-
-If you are any good at making logos or websites, please be sure to submit [Bounty](Bounties.md) entires soon! __Once we have our branding and website finalized, we will be able to pick a launch day.__
-
 ## Overview
-We plan on beginning our __Pre Launch Checklist__ at __[5:00 PM PST on Tuesday, May/June ??, 2018]__. We will start disconnecting most of our infrastructure from Testnet in preperation for Mainnet launch.
+If you are any good at making logos or websites, please be sure to submit [Bounty](Bounties.md) entires soon! __We will be closing bounty submissions once we initiate Pre-Launch!__
 
-We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May/June ??, 2018]__. Many things can go wrong when trying to launch a new service, so we are unable to give an exact launch time. If you are eager to participate at the very beginning of our launch, please make sure you are in our Discord server, and are listening for our announcements. 
+We plan on beginning our __Pre Launch Checklist__ at __[5:00 PM PST on Tuesday, May 8, 2018]__. We will start disconnecting most of our infrastructure from Testnet in preperation for Mainnet launch.
 
-## Pre Launch Checklist - [5:00 PM PST, Tuesday, May/June ??, 2018]
+We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May 12, 2018]__. Many things can go wrong when trying to launch a new service, so we are unable to give an exact launch time. If you are eager to participate at the very beginning of our launch, please make sure you are in our Discord server, and are listening for our announcements. 
+
+## Pre Launch Checklist - [5:00 PM PST, Tuesday, May 8, 2018]
 * [ ] __Announce in Discord:__ Pre-Launch checklist has begun
 * [ ] Stop Pool - Disconnect from Testnet, remove Testnet warning
 * [ ] Stop Explorer - Disconnect from Testnet
@@ -29,7 +26,7 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [ ] Launch Website!
 * [ ] __If time permits:__ Perform a dev only mock launch.
 
-## Launch Checklist - [7:00 AM PST, Saturday, May/June ??, 2018]
+## Launch Checklist - [7:00 AM PST, Saturday, May 12, 2018]
 * [ ] __Announce in Discord:__ Launch checklist has begun
 * [ ] Init genesis block on bootnodes
 * [ ] Bootnodes online - verify they see each other
