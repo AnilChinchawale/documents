@@ -30,6 +30,7 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [ ] __Announce in Discord:__ Launch checklist has begun
 * [ ] Init genesis block on bootnodes
 * [ ] Bootnodes online - verify they see each other
+* [ ] Setup pingdom to monitor bootnodes
 * [ ] Netstats Online (all bootnodes reporting for duty)
 * [ ] Prepare Pool 
 * [ ] __Announce in Discord:__ WE WILL BE STARTING SOON... and wait... for dramatic... tension :)
