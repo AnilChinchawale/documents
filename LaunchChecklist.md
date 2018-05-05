@@ -12,10 +12,10 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [ ] Stop Web Wallet - Disconnect from Testnet
 * [ ] Stop Netstats - Disconnect from Testnet
 * [ ] Disable dev & Testnet node from sending netstats
-* [ ] Setup Mainnet Bootnode hosts (US, EU, Asia, ...)
-* [ ] __Gath:__ Update MainNetGenesisHash
-* [ ] __Gath:__ Update MainnetBootnodes with bootnode enode://
-* [ ] __Gath:__ Update Version to 1.0.3
+* [x] Setup Mainnet Bootnode hosts (US, EU, Asia, ...)
+* [x] __Gath:__ Update MainNetGenesisHash
+* [x] __Gath:__ Update MainnetBootnodes with bootnode enode://
+* [x] __Gath:__ Update Version to 1.0.3
 * [ ] __Gath:__ Compile for Linux, Mac, Windows
 * [ ] __Gath:__ Compress binaries and prep for release
 * [ ] Get Pool ready for Mainnet
