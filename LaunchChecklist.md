@@ -1,7 +1,6 @@
 ## Overview
-If you are any good at making logos or websites, please be sure to submit [Bounty](Bounties.md) entires soon! __We will be closing bounty submissions once we initiate Pre-Launch!__
 
-We plan on beginning our __Pre Launch Checklist__ at __[5:00 PM PST on Tuesday, May 8, 2018]__. We will start disconnecting most of our infrastructure from Testnet in preperation for Mainnet launch.
+__Pre Launch Checklist__ is COMPLETE. Testnet is now fully offline. Servers are being tested and prepared for Mainnet.
 
 We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May 12, 2018]__. Many things can go wrong when trying to launch a new service, so we are unable to give an exact launch time. If you are eager to participate at the very beginning of our launch, please make sure you are in our Discord server, and are listening for our announcements. 
 
