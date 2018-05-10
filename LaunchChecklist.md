@@ -5,7 +5,7 @@ We plan on beginning our __Pre Launch Checklist__ at __[5:00 PM PST on Tuesday, 
 
 We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May 12, 2018]__. Many things can go wrong when trying to launch a new service, so we are unable to give an exact launch time. If you are eager to participate at the very beginning of our launch, please make sure you are in our Discord server, and are listening for our announcements. 
 
-## Pre Launch Checklist - [5:00 PM PST, Tuesday, May 8, 2018]
+## Pre Launch Checklist - COMPLETE
 * [x] __Announce in Discord:__ Pre-Launch checklist has begun
 * [x] Stop Pool - Disconnect from Testnet, remove Testnet warning
 * [x] Stop Explorer - Disconnect from Testnet
@@ -17,15 +17,15 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [x] __Gath:__ Update MainnetBootnodes with bootnode enode://
 * [x] __Gath:__ Update Version to 1.0.3
 * [x] __Gath:__ Compile for Linux, Mac, Windows
-* [ ] __Gath:__ Compress binaries and prep for release
+* [x] __Gath:__ Compress binaries and prep for release
 * [x] Get Pool ready for Mainnet
 * [x] Get Explorer ready for Mainnet
 * [x] Get Web Wallet ready for Mainnet
 * [x] Get Netstats ready for Mainnet
 * [x] Get Grafana/Graphite/Prometheus ready for Mainnet
 * [x] __If time permits:__ Perform a dev only mock launch.
-* [ ] Verify Prometheus is scraping all Mainnet hosts
-* [ ] Test desktop wallets.
+* [x] Verify Prometheus is scraping all Mainnet hosts
+* [x] Test desktop wallets.
 
 ## Launch Checklist - [7:00 AM PST, Saturday, May 12, 2018]
 * [ ] __Announce in Discord:__ Launch checklist has begun
