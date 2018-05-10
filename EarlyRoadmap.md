@@ -16,10 +16,8 @@
 	* [x] Medium - https://medium.com/@atheios
 
 # Setup Official Atheios Hosts (VM's & Containers):
-* [ ] Bootnodes
-    * [ ] Official US Node
-    * [ ] Official EU Node
-    * [ ] Official Asia Node
+* [x] Bootnodes
+    * [x] Official Nodes setup for launch
 * [x] Explorer
 * [x] Website
 * [x] Web Wallet
@@ -44,7 +42,7 @@
 * [x] explorer - up and running
 
 # Misc:
-* [ ] Create Atheios Logo & Banner
+* [x] Create Atheios Logo & Banner
 * [x] Determine Coin Generation: 
     * [x] Determine base Block Reward 
     * [x] Determine Block Reward reduction rate 
