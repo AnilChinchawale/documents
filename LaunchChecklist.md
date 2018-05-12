@@ -38,7 +38,7 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [x] __Announce in Discord:__ Pool is open
 * [x] Explorer Online
 * [x] Web Wallet Online
-* [ ] Drink a Beer
+* [x] Drink a Beer
 * [ ] Monitor Stabilty
 
 ## Post Launch Checklist
