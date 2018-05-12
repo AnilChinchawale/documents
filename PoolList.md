@@ -1,6 +1,8 @@
 ## Overview
 If you are setting up a pool for Atheios please visit us on Discord. We would love to make sure your pool is added to our list.
 
+Realtime Pool List with stats: [https://minerpool.net/pools/atheios/](https://minerpool.net/pools/atheios/)
+
 ## Pool List
 | Pool | Link |
 |------|------|
