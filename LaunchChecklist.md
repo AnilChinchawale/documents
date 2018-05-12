@@ -27,17 +27,17 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [x] Test desktop wallets.
 
 ## Launch Checklist - [7:00 AM PST, Saturday, May 12, 2018]
-* [ ] __Announce in Discord:__ Launch checklist has begun
-* [ ] Sanity check bootnodes
-* [ ] Bootnodes online - verify they see each other
-* [ ] Prepare Pool 
-* [ ] __Announce in Discord:__ WE WILL BE STARTING SOON... and wait... for dramatic... tension :)
-* [ ] Unlock Gath download links
-* [ ] Enable Pool Miner Proxies
-* [ ] __Announce in Discord:__ Links to download Gath (GitHub binaries will be released post launch)
-* [ ] __Announce in Discord:__ Pool is open
-* [ ] Explorer Online
-* [ ] Web Wallet Online
+* [x] __Announce in Discord:__ Launch checklist has begun
+* [x] Sanity check bootnodes
+* [x] Bootnodes online - verify they see each other
+* [x] Prepare Pool 
+* [x] __Announce in Discord:__ WE WILL BE STARTING SOON... and wait... for dramatic... tension :)
+* [x] Unlock Gath download links
+* [x] Enable Pool Miner Proxies
+* [x] __Announce in Discord:__ Links to download Gath (GitHub binaries will be released post launch)
+* [x] __Announce in Discord:__ Pool is open
+* [x] Explorer Online
+* [x] Web Wallet Online
 * [ ] Drink a Beer
 * [ ] Monitor Stabilty
 
