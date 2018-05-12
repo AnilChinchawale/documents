@@ -37,7 +37,7 @@
 * [x] desktop wallet - currently works in dev on testnet
 * [ ] atheiosmask - currently works in dev on testnet
 * [x] netstats - netstats setup at stats.atheios.com
-* [ ] website - create website and setup at atheios.com
+* [x] website - create website and setup at atheios.com
 * [x] pool - get official pool running at pool.atheios.com
 * [x] explorer - up and running
 
