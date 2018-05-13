@@ -46,7 +46,7 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [x] Releases Binaries on GitHub, Open Source GitHub
 * [x] Netstats Online (all bootnodes reporting for duty)
 * [ ] Setup pingdom to monitor bootnodes
-* [ ] Grafana Online
+* [x] Grafana Online
 * [x] Verify we are getting graphite metrics
 * [x] Launch Website
 
