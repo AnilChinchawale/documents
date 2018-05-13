@@ -44,9 +44,9 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 ## Post Launch Checklist
 * [ ] Test, Verify, and Release: Standalone Desktop Wallet (win, mac, linux)
 * [ ] Releases Binaries on GitHub, Open Source GitHub
-* [ ] Netstats Online (all bootnodes reporting for duty)
+* [x] Netstats Online (all bootnodes reporting for duty)
 * [ ] Setup pingdom to monitor bootnodes
 * [ ] Grafana Online
 * [ ] Verify we are getting graphite metrics
-* [ ] Launch Website
+* [x] Launch Website
 
