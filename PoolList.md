@@ -6,6 +6,7 @@ Realtime Pool List with stats: [https://minerpool.net/pools/atheios/](https://mi
 ## Pool List
 | Pool | Link |
 |------|------|
+| poolfun.ru | [http://atheios.poolfun.ru/#/](http://atheios.poolfun.ru/#/) |
 | imminer.net | [https://imminer.net/ath](https://imminer.net/ath) |
 | Minerpool.net (US, EU, AU/NZ, ASIA) | [http://atheios.minerpool.net/](http://atheios.minerpool.net/) |
 | bylt.gq (EU) | [https://bylt.gq/](https://bylt.gq/) |
