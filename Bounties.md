@@ -1,4 +1,4 @@
-**Logo & Branding - _500 ATH Reward_**
+**Logo & Branding - _500 ATH Reward_** - PAID
 1. WINNER - Submission by Discord User @dcn - [https://www.atheios.com/bounty/branding/dcn/](https://www.atheios.com/bounty/branding/dcn/)
 
 **Website - _2000 ATH Reward_**
