@@ -2,7 +2,7 @@
 
 __Pre Launch Checklist__ is COMPLETE. Testnet is now fully offline. Servers are being tested and prepared for Mainnet.
 
-We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May 12, 2018]__. Many things can go wrong when trying to launch a new service, so we are unable to give an exact launch time. If you are eager to participate at the very beginning of our launch, please make sure you are in our Discord server, and are listening for our announcements. 
+__Launch Checklist__ is COMPLETE. Mainnet is live.
 
 ## Pre Launch Checklist - COMPLETE
 * [x] __Announce in Discord:__ Pre-Launch checklist has begun
@@ -39,13 +39,13 @@ We plan on beginning our __Launch Checklist__ at __[7:00 AM PST on Saturday, May
 * [x] Explorer Online
 * [x] Web Wallet Online
 * [x] Drink a Beer
-* [ ] Monitor Stabilty
+* [x] Monitor Stabilty
 
 ## Post Launch Checklist
 * [x] Test, Verify, and Release: Standalone Desktop Wallet (win, mac, linux)
 * [x] Releases Binaries on GitHub, Open Source GitHub
 * [x] Netstats Online (all bootnodes reporting for duty)
-* [ ] Setup pingdom to monitor bootnodes
+* [x] Setup pingdom to monitor bootnodes
 * [x] Grafana Online
 * [x] Verify we are getting graphite metrics
 * [x] Launch Website
