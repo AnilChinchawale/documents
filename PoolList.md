@@ -6,11 +6,12 @@ Realtime Pool List with stats: [https://minerpool.net/pools/atheios/](https://mi
 ## Pool List
 | Pool | Link |
 |------|------|
-| poolfun.ru | [http://atheios.poolfun.ru/#/](http://atheios.poolfun.ru/#/) |
+| epool.io (US, EU, ASIA) | [https://ath.epool.io/](https://ath.epool.io/)
+| poolfun.ru | [http://atheios.poolfun.ru/](http://atheios.poolfun.ru/) |
 | imminer.net | [https://imminer.net/ath](https://imminer.net/ath) |
 | Minerpool.net (US, EU, AU/NZ, ASIA) | [http://atheios.minerpool.net/](http://atheios.minerpool.net/) |
 | bylt.gq (EU) | [https://bylt.gq/](https://bylt.gq/) |
 | alttank.ca (CA) | [http://atheios.alttank.ca/](http://atheios.alttank.ca/) |
 | ethash.farm (RU) | [http://ath.ethash.farm/]( http://ath.ethash.farm/) |
 | comining.io (US, EU, RU, ASIA) | [https://comining.io/](https://comining.io/) |
-| Dev Pool (US) | [https://pool.atheios.com/#/](https://pool.atheios.com/#/) |
+| Dev Pool (US) | [https://pool.atheios.com/](https://pool.atheios.com/) |
