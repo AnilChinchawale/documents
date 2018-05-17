@@ -6,7 +6,8 @@ Realtime Pool List with stats: [https://minerpool.net/pools/atheios/](https://mi
 ## Pool List
 | Pool | Link |
 |------|------|
-| epool.io (US, EU, ASIA) | [https://ath.epool.io/](https://ath.epool.io/)
+| happy2mine.com (ASIA) | [http://atheios.happy2mine.com/](http://atheios.happy2mine.com/) |
+| epool.io (US, EU, ASIA) | [https://ath.epool.io/](https://ath.epool.io/) |
 | poolfun.ru | [http://atheios.poolfun.ru/](http://atheios.poolfun.ru/) |
 | imminer.net | [https://imminer.net/ath](https://imminer.net/ath) |
 | Minerpool.net (US, EU, AU/NZ, ASIA) | [http://atheios.minerpool.net/](http://atheios.minerpool.net/) |
