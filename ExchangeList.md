@@ -11,3 +11,4 @@ Please send Atheios some votes if you use any of the following exchanges
 | Graviex | [Submit Vote Here](https://graviex.net/listing_requests/15048) |
 | Mercatox | [Submit Vote Here](https://mercatox.com/coins/list?name=Atheios) |
 | SouthXchange | [Submit Vote Here](https://www.southxchange.com/Home/Vote) |
+| StocksExchange | [Trading](https://stocks.exchange/trade/ATH/BTC) |
