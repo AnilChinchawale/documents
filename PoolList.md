@@ -6,6 +6,7 @@ Realtime Pool List with stats: [https://minerpool.net/pools/atheios/](https://mi
 ## Pool List
 | Pool | Link |
 |------|------|
+| masterpro.ddns.net | [http://masterpro.ddns.net/](http://masterpro.ddns.net/) |
 | cryptopools.info (US) (PPLNS) | [https://atheios.cryptopools.info/](https://atheios.cryptopools.info/) |
 | aikapool.com | [https://aikapool.com/ath/](https://aikapool.com/ath/) |
 | happy2mine.com (ASIA) | [http://atheios.happy2mine.com/](http://atheios.happy2mine.com/) |
