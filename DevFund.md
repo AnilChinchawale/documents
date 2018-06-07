@@ -9,3 +9,6 @@ https://scan.atheios.com/tx/0x4130bc4fb1c5dda7b98301b47326674d18724c3bb1148cd17e
 
 2000 ATH - Website Bounty Payment
 https://scan.atheios.com/tx/0xebb3a74e784e15ed1cf878acfd1614ebc314d36f6f223ef73b757f62640ec6d8
+
+5000 ATH - Sent to Community Bounty/Marketing Fund
+https://scan.atheios.com/tx/0x4fb66e242198d0a0d7afd1b3979d9b1c53fc876b359e975816cb3949dff0dc7c
