@@ -11,9 +11,11 @@ Realtime Pool Lists with stats:
 ## Pool List
 | Pool | Link |
 |------|------|
-| athpool.com | [https://www.athpool.com/](https://www.athpool.com/) |
+| upool.in (US, EU) | [https://ath.upool.in/](https://ath.upool.in/) |
+| cryptomena.io | [http://ath.cryptomena.io/](http://ath.cryptomena.io/) |
+| athpool.com (EU) | [https://www.athpool.com/](https://www.athpool.com/) |
 | masterpro.ddns.net | [http://masterpro.ddns.net/](http://masterpro.ddns.net/) |
-| cryptopools.info (US) (PPLNS) | [https://atheios.cryptopools.info/](https://atheios.cryptopools.info/) |
+| cryptopools.info (US) | [https://atheios.cryptopools.info/](https://atheios.cryptopools.info/) |
 | aikapool.com | [https://aikapool.com/ath/](https://aikapool.com/ath/) |
 | happy2mine.com (ASIA) | [http://atheios.happy2mine.com/](http://atheios.happy2mine.com/) |
 | poolfun.ru | [http://atheios.poolfun.ru/](http://atheios.poolfun.ru/) |
