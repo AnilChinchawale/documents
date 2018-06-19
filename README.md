@@ -6,3 +6,6 @@
 * [Bounties](Bounties.md)
 * [Pool List](PoolList.md)
 * [Exchange List](ExchangeList.md)
+* [Blog Bounty](BlogBounty.md)
+* [Signature Bounty](SignatureBounty.md)
+* [Twitter Bounty](TwitterBounty.md)
