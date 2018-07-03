@@ -11,6 +11,7 @@ Realtime Pool Lists with stats:
 ## Pool List
 | Pool | Link |
 |------|------|
+| cubepool.eu (EU) | [https://atheios.cubepool.eu/](https://atheios.cubepool.eu/) |
 | upool.in (US, EU) | [https://ath.upool.in/](https://ath.upool.in/) |
 | cryptomena.io | [http://ath.cryptomena.io/](http://ath.cryptomena.io/) |
 | athpool.com (EU) | [https://www.athpool.com/](https://www.athpool.com/) |
