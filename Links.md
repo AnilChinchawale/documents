@@ -35,4 +35,5 @@
 | MyCrypto Stats | https://mycryptostats.com/ |
 | Delta App | https://getdelta.io/ |
 | CoinLib | https://coinlib.io/coin/ATH2/Atheios |
+| Where To Mine | https://wheretomine.io/currencies/atheios.html |
 
