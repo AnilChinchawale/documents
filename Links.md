@@ -32,7 +32,7 @@
 # 3rd Party Services
 | Site | URL |
 |------|-----|
-| MyCrypto | https://mycryptostats.com/ |
+| MyCrypto Stats | https://mycryptostats.com/ |
 | Delta App | https://getdelta.io/ |
 | CoinLib | https://coinlib.io/coin/ATH2/Atheios |
 
