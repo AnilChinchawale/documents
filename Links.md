@@ -22,6 +22,7 @@
 | Twitter | https://twitter.com/atheioschain |
 | Youtube | http://youtube.atheios.com |
 | Vimeo | https://vimeo.com/user85690859 |
+| Reddit | https://www.reddit.com/r/Atheios/ |
 
 # Exchanges
 
