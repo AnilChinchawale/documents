@@ -11,6 +11,7 @@
 | Network Metrics | http://metrics.atheios.com:3000/d/z1kaG-Wmz/network |
 | Current Supply & Rich List | http://metrics.atheios.com:3000/d/xOccO87mz/blockwatch |
 | Atheios Pool Stats | http://metrics.atheios.com:3000/d/iQ39btSmz/atheios-pools |
+| WIKI | http://wiki.atheios.com/index.php/Main_Page |
 
 # Social Links
 
