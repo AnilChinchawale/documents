@@ -6,6 +6,7 @@ Please send Atheios some votes if you use any of the following exchanges
 ## Exchange List
 | Exchange | Vote |
 |------|------|
+| Aiodex | [Submit Vote Here](https://aiodex.com/vote/ATH) |
 | C-CEX | [Submit Vote Here](https://c-cex.com/?id=vote&coin=ath) |
 | CoinFalcon | [Submit Vote Here](https://feedback.coinfalcon.com/coin-request/p/atheios-ath) |
 | Graviex | [Submit Vote Here](https://graviex.net/listing_requests/15048) |
