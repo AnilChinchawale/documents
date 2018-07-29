@@ -29,6 +29,7 @@
 |------|-----|
 | Github | https://github.com/atheioschain |
 | Discord | https://discord.gg/75MBKFF |
+| Telegram | https://t.me/atheioschain |
 | Medium | https://medium.com/@atheios |
 | Twitter | https://twitter.com/atheioschain |
 | Youtube | http://youtube.atheios.com |
