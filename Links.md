@@ -50,4 +50,5 @@
 | CoinLib | https://coinlib.io/coin/ATH2/Atheios |
 | Where To Mine | https://wheretomine.io/currencies/atheios.html |
 | Coin Calculators | https://www.coincalculators.io/coin.aspx?crypto=atheios-mining-calculator |
+| World Coin Index | https://www.worldcoinindex.com/coin/atheios |
 
