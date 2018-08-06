@@ -4,7 +4,7 @@
 | ATH Core Dev | https://github.com/orgs/atheioschain/projects/5 |
 | ATH Exchanges & External Services | https://github.com/orgs/atheioschain/projects/2 |
 | ATH Marketing | https://github.com/orgs/atheioschain/projects/1 |
-| ATH Communitaction | https://github.com/orgs/atheioschain/projects/3 |
+| ATH Communications | https://github.com/orgs/atheioschain/projects/3 |
 | ATH Documentation | https://github.com/orgs/atheioschain/projects/4 |
 
 
