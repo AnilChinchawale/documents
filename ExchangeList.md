@@ -7,6 +7,7 @@ Please send Atheios some votes if you use any of the following exchanges
 | Exchange | Vote |
 |------|------|
 | Safe Trade | [Submit Vote Here](https://vote.safe.trade/) |
+| Kastle Pro | [Submit Vote Here](https://kastle.pro/en/project/vote)
 | Aiodex | [Submit Vote Here](https://aiodex.com/vote/ATH) |
 | C-CEX | [Submit Vote Here](https://c-cex.com/?id=vote&coin=ath) |
 | CoinFalcon | [Submit Vote Here](https://feedback.coinfalcon.com/coin-request/p/atheios-ath) |
