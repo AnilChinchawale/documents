@@ -16,7 +16,6 @@ Realtime Pool Lists with stats:
 | masterpro.ddns.net | [http://masterpro.ddns.net/](http://masterpro.ddns.net/) |
 | cryptopools.info (US) | [https://atheios.cryptopools.info/](https://atheios.cryptopools.info/) |
 | aikapool.com | [https://aikapool.com/ath/](https://aikapool.com/ath/) |
-| happy2mine.com (ASIA) | [http://atheios.happy2mine.com/](http://atheios.happy2mine.com/) |
 | poolfun.ru | [http://atheios.poolfun.ru/](http://atheios.poolfun.ru/) |
 | Minerpool.net (US, EU, AU/NZ, ASIA) | [http://atheios.minerpool.net/](http://atheios.minerpool.net/) |
 | bylt.gq (EU) | [https://bylt.gq/](https://bylt.gq/) |
