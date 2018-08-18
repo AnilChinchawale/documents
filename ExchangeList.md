@@ -9,7 +9,7 @@ Please send Atheios some votes if you use any of the following exchanges
 | Safe Trade | [TRADING SOON](https://safe.trade/) |
 | StocksExchange | [TRADING](https://app.stocks.exchange/en/basic-trade/pair/BTC/ATH/1D) |
 
-## Vote for Atheios Exchange Listing
+## Vote for Exchange Listing
 | Exchange | Vote |
 |------|------|
 | Kastle Pro | [Submit Vote Here](https://kastle.pro/en/project/vote)
