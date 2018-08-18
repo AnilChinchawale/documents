@@ -6,6 +6,7 @@
 | ATH Marketing | https://github.com/orgs/atheioschain/projects/1 |
 | ATH Communications | https://github.com/orgs/atheioschain/projects/3 |
 | ATH Documentation | https://github.com/orgs/atheioschain/projects/4 |
+| ATH Gaming | https://github.com/orgs/atheioschain/projects/6 |
 
 
 # Atheios Links
