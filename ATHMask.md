@@ -4,8 +4,7 @@ ATHMask is currenly in testing. Please use the instructions below to get setup i
 [https://storage.googleapis.com/atheios/ATHMask/alpha/ATHMask-002.zip](https://storage.googleapis.com/atheios/ATHMask/alpha/ATHMask-002.zip)
 
 ### Chrome Setup
-
-Navigate to: `chrome://extensions/`
+Navigate to: `chrome://extensions/` (Note: You may also need to enable developer mode here)
 
 Click `Load Unpacked`
 
