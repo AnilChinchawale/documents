@@ -1,12 +1,14 @@
 ## Overview
 If you are setting up a pool for Atheios please visit us on Discord. We would love to make sure your pool is added to our list.
 
+[Atheios Pool Metrics](http://metrics.atheios.com:3000/d/iQ39btSmz/atheios-pools)
 
-Realtime Pool Lists with stats: 
+[Mining Pool Stats](https://miningpoolstats.stream/atheios)
 
-[http://metrics.atheios.com:3000/d/iQ39btSmz/atheios-pools](http://metrics.atheios.com:3000/d/iQ39btSmz/atheios-pools)
+[Where To Mine](https://wheretomine.io/currencies/atheios.html)
 
-[https://minerpool.net/pools/atheios/](https://minerpool.net/pools/atheios/)
+[Coin Calculators](https://www.coincalculators.io/coin.aspx?crypto=atheios-mining-calculator)
+
 
 ## Pool List
 | Pool | Link |
