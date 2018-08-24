@@ -11,6 +11,7 @@ Realtime Pool Lists with stats:
 ## Pool List
 | Pool | Link |
 |------|------|
+| baikalmine.com | [http://pool.baikalmine.com/en/ath/](http://pool.baikalmine.com/en/ath/) & [http://pool.baikalmine.com/en/ath-solo/](http://pool.baikalmine.com/en/ath-solo/) |
 | upool.in (US, EU) | [https://ath.upool.in/](https://ath.upool.in/) |
 | cryptomena.io | [http://ath.cryptomena.io/](http://ath.cryptomena.io/) |
 | masterpro.ddns.net | [http://masterpro.ddns.net/](http://masterpro.ddns.net/) |
