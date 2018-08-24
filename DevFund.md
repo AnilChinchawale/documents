@@ -12,3 +12,5 @@ https://scan.atheios.com/tx/0xebb3a74e784e15ed1cf878acfd1614ebc314d36f6f223ef73b
 
 5000 ATH - Sent to Community Bounty/Marketing Fund
 https://scan.atheios.com/tx/0x4fb66e242198d0a0d7afd1b3979d9b1c53fc876b359e975816cb3949dff0dc7c
+
+30112 ATH - Hardware Wallet development
