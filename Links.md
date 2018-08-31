@@ -54,3 +54,4 @@
 | Coin Calculators | https://www.coincalculators.io/coin.aspx?crypto=atheios-mining-calculator |
 | World Coin Index | https://www.worldcoinindex.com/coin/atheios |
 | Live Coin Watch | https://www.livecoinwatch.com/price/Atheios-ATH |
+| Coin Ranker | https://www.coinranker.net/cryptocurrency/Atheios |
