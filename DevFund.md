@@ -14,3 +14,6 @@ https://scan.atheios.com/tx/0xebb3a74e784e15ed1cf878acfd1614ebc314d36f6f223ef73b
 https://scan.atheios.com/tx/0x4fb66e242198d0a0d7afd1b3979d9b1c53fc876b359e975816cb3949dff0dc7c
 
 30112 ATH - Hardware Wallet development
+
+1000 ATH - Communication
+https://scan.atheios.com/tx/0xd1c4a34fd700fac6734ff3507ee7baf7c0929de6d4f6b5f7e444155527f0345a
