@@ -6,6 +6,7 @@
 * [Development Fund](DevFund.md)
 * [Bounties](Bounties.md)
 * [Pool List](PoolList.md)
+* [Mining Guide](Mining-Guide.md)
 * [Exchange List](ExchangeList.md)
 * [Blog Bounty](BlogBounty.md)
 * [Signature Bounty](SignatureBounty.md)
