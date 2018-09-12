@@ -23,6 +23,7 @@ If you are setting up a pool for Atheios please visit us on Discord. We would lo
 | bylt.gq (EU) | [https://bylt.gq/](https://bylt.gq/) | |
 | comining.io (US, EU, RU, ASIA) | [https://comining.io/](https://comining.io/) | |
 | DG Pool | [http://atheios.dgpool.ru/](http://atheios.dgpool.ru/) & [http://solo-atheios.dgpool.ru/](http://solo-atheios.dgpool.ru/) |
+| Solo Pool | [https://ath.solopool.org/](https://ath.solopool.org/) |
 | Dev Pool (US) | [https://pool.atheios.com/](https://pool.atheios.com/) | |
 
 [Community Fund Donation Wallet](https://scan.atheios.com/addr/0x8aa77281e4854dafe6fa67bf38cbba2a27baa222)
