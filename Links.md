@@ -49,6 +49,7 @@
 |------|-----|
 | MiningPoolStats | https://miningpoolstats.stream/atheios |
 | MyCrypto Stats | https://mycryptostats.com/ |
+| Blockfolio | https://blockfolio.com/ |
 | Delta App | https://getdelta.io/ |
 | CoinLib | https://coinlib.io/coin/ATH2/Atheios |
 | Where To Mine | https://wheretomine.io/currencies/atheios.html |
