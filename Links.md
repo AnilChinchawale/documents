@@ -13,6 +13,7 @@
 
 | Site | URL |
 |------|-----|
+| ANN | https://bitcointalk.org/index.php?topic=3444373.0 |
 | Website | http://atheios.com |
 | Explorer | http://scan.atheios.com |
 | Web Wallet | https://wallet.atheios.com |
