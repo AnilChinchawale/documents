@@ -59,3 +59,4 @@
 | Live Coin Watch | https://www.livecoinwatch.com/price/Atheios-ATH |
 | Coin Ranker | https://www.coinranker.net/cryptocurrency/Atheios |
 | Coin Codex | https://coincodex.com/crypto/atheios/ |
+| Crypto Coinz | https://www.crypto-coinz.net/coin-info/?168-Atheios-ATH-Ethash-calculator/ |
