@@ -58,3 +58,4 @@
 | World Coin Index | https://www.worldcoinindex.com/coin/atheios |
 | Live Coin Watch | https://www.livecoinwatch.com/price/Atheios-ATH |
 | Coin Ranker | https://www.coinranker.net/cryptocurrency/Atheios |
+| Coin Codex | https://coincodex.com/crypto/atheios/ |
