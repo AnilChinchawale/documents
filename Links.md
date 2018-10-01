@@ -60,3 +60,7 @@
 | Coin Ranker | https://www.coinranker.net/cryptocurrency/Atheios |
 | Coin Codex | https://coincodex.com/crypto/atheios/ |
 | Crypto Coinz | https://www.crypto-coinz.net/coin-info/?168-Atheios-ATH-Ethash-calculator/ |
+| CoinGecko | https://www.coingecko.com/en/coins/atheois  |
+| Coinpredictor.io | https://coinpredictor.io/atheios-ath  |
+
+
