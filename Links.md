@@ -48,6 +48,7 @@
 # 3rd Party Services
 | Site | URL |
 |------|-----|
+| Coinmarketcap | https://coinmarketcap.com/currencies/atheios/ |
 | MiningPoolStats | https://miningpoolstats.stream/atheios |
 | MyCrypto Stats | https://mycryptostats.com/ |
 | Blockfolio | https://blockfolio.com/ |
