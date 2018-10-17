@@ -14,7 +14,8 @@ If you are setting up a pool for Atheios please visit us on Discord. We would lo
 | Pool | Link | Donates|
 |------|------|--------|
 | Mining Speed | [https://atheios.miningspeed.com](https://atheios.miningspeed.com) | YES |
-| ath.digiuzman.com | [http://ath.digiuzman.com/](http://ath.digiuzman.com/) | |
+| crazypool.com | [http://ath.crazypool.org](http://ath.crazypool.org) | |
+| digiuzman.com | [http://ath.digiuzman.com/](http://ath.digiuzman.com/) | |
 | forgetop.com | [https://ath.forgetop.com/](https://ath.forgetop.com/) | |
 | baikalmine.com | [http://pool.baikalmine.com/en/ath/](http://pool.baikalmine.com/en/ath/) & [http://pool.baikalmine.com/en/ath-solo/](http://pool.baikalmine.com/en/ath-solo/) | |
 | upool.in (US, EU) | [https://ath.upool.in/](https://ath.upool.in/) | |
