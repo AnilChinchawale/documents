@@ -64,4 +64,6 @@
 | CoinGecko | https://www.coingecko.com/en/coins/atheois  |
 | Coinpredictor.io | https://coinpredictor.io/atheios-ath  |
 | CWAQRGEN | https://www.cwaqrgen.com/atheios |
+| The Wallet investor | https://walletinvestor.com/currency/atheios |
+| Coin checkup | https://coincheckup.com/coins/atheios/ |
 
