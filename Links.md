@@ -66,4 +66,5 @@
 | CWAQRGEN | https://www.cwaqrgen.com/atheios |
 | The Wallet investor | https://walletinvestor.com/currency/atheios |
 | Coin checkup | https://coincheckup.com/coins/atheios/ |
+| feixiaohao.com | https://www.feixiaohao.com/currencies/atheios/ |
 
