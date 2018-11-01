@@ -8,7 +8,7 @@ Please send Atheios some votes if you use any of the following exchanges
 |------|------|
 | StocksExchange | [ATH/BTC](https://app.stocks.exchange/en/basic-trade/pair/BTC/ATH/1D) |
 | Graviex | [ATH/BTC](https://graviex.net/markets/athbtc) |
-| Safe Trade | [TRADING SOON](https://safe.trade/) |
+| Safe Trade | [ATH/BTC](https://safe.trade/trading/athbtc)  [ATH/LTC](https://safe.trade/trading/athltc)  [ATH/SAFE](https://safe.trade/trading/athsafe) |
 | Kastle | [VOTE WON 8-25-2018 (In Review Pipleline)](https://kastle.pro/) |
 
 
