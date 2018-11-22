@@ -23,3 +23,6 @@ https://atheios.com/tx/0x6bd4953dab02a7801d2d429043f83ed5f34b7039187c4e47dd1d6e3
 
 1000 ATH - Communication
 https://atheios.com/tx/0xe7d19572186b8fb6354f0d21824a90a71cdc69b0cc120a855d43dee23850016f
+
+20000 ATH - EtherGamesClub dev fund contribution
+https://atheios.com/tx/0xd6459ac4508dd442b1e7a50abfc0f44e610897422cf6af32528597e39c20c4a5
