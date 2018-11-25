@@ -43,7 +43,9 @@
 
 | Site | URL |
 |------|-----|
-| stocks.exchange | https://app.stocks.exchange/en/basic-trade/pair/BTC/ATH/1D |
+| Stex | [ATH/BTC](https://app.stex.com/en/trade/pair/BTC/ATH/1D) |
+| Graviex | [ATH/BTC](https://graviex.net/markets/athbtc) |
+| Safe Trade | [ATH/BTC](https://safe.trade/trading/athbtc)  [ATH/LTC](https://safe.trade/trading/athltc)  [ATH/SAFE](https://safe.trade/trading/athsafe) |
 
 # 3rd Party Services
 | Site | URL |
